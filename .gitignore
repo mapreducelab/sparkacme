@@ -1,0 +1,9 @@
+*.class
+*.log
+.idea
+out
+target
+project/target
+project/project
+rusty.log
+spark-warehouse
